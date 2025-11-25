@@ -53,7 +53,9 @@ adaptive product catalog with filtering and pagination, modal windows with detai
 - [Movie Search App](https://github.com/Alina29051981/04-react-query) - movie search application with pagination and detailed view of selected movies. Contribution: full implementation of movie search and pagination logic, API integration with TMDB, type-safe 
 component props, error handling, UI and UX optimization, centralized query and state management.
  
-- [NoteHub](https://github.com/Alina29051981/09-auth) - full-featured note management app with user authentication, protected routes, profile view/edit, note CRUD operations, filtering, modal note details, client-server communication via Axios, SSR & CSR support, state management with Zustand, and API caching/prefetching with React Query. Responsive design, full project setup and deployment on Vercel. 
+- [NoteHub](https://github.com/Alina29051981/09-auth) - full-featured note management app with user authentication, protected routes, profile view/edit, note CRUD operations, filtering, modal note details, client-server communication via Axios, SSR & CSR support, state management with Zustand, and API caching/prefetching with React Query. Responsive design, full project setup and deployment on Vercel.
+  
+- [Node Practice](https://github.com/Alina29051981/nodejs-hw) 
 
 # Languages:
 
