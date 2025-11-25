@@ -1,7 +1,7 @@
 Hi, I'm
 # Alina Kuchma
 
-[![Hits](https://u8views.com/api/v1/github/profiles/твійID/views/day-week-month-total-count.svg)](https://u8views.com/github/твійUsername)
+[![Hits](https://u8views.com/api/v1/github/profiles/200464676/views/day-week-month-total-count.svg)](https://u8views.com/github/Alina29051981)
 
 Junior Fullstack Developer | React | Next | Node |  
 
